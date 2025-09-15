@@ -1,0 +1,20 @@
+[project]
+name = "clustering-crm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "category-encoders>=2.8.1",
+    "fastparquet>=2024.11.0",
+    "matplotlib>=3.10.6",
+    "numba>=0.59",
+    "numpy<2.3",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "setuptools>=80.9.0",
+    "shap>=0.45.0",
+    "statsmodels>=0.14.5",
+    "yellowbrick>=1.5",
+]
