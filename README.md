@@ -13,9 +13,9 @@ O objetivo é identificar grupos homogêneos de clientes a partir de dados trans
 
 ## 🎯 Objetivos
 
-- 📊 **Análise RFM (Recência, Frequência e Valor Monetário)**: segmentação baseada no comportamento de compra do cliente :contentReference[oaicite:1]{index=1}  
-- 🤖 **Clusterização K-Means**: identificar grupos naturais de clientes :contentReference[oaicite:2]{index=2}  
-- 📋 **Perfilamento de Clusters**: análise e descrição de cada segmento  
+- 📊 **Análise RFM (Recência, Frequência e Valor Monetário)**: segmentação baseada no comportamento de compra do cliente. 
+- 🤖 **Clusterização K-Means**: identificar grupos naturais de clientes
+- 📋 **Perfilamento de Clusters**: análise e descrição de cada segmento 
 - 💡 **Insights Acionáveis**: recomendações estratégicas para cada grupo  
 ---
 
@@ -24,7 +24,7 @@ O objetivo é identificar grupos homogêneos de clientes a partir de dados trans
 ### 1. Pré-processamento
 
 - Tratamento de valores ausentes  
-- **Feature Engineering**: cálculo de métricas RFM (Recência, Frequência, Monetário) :contentReference[oaicite:3]{index=3}  
+- **Feature Engineering**: cálculo de métricas RFM (Recência, Frequência, Monetário)
 - Normalização e padronização dos dados  
 - Codificação de variáveis categóricas  
 
@@ -34,7 +34,7 @@ O objetivo é identificar grupos homogêneos de clientes a partir de dados trans
 
 - Estatísticas descritivas  
 - Verificação de correlações entre variáveis  
-- Análise da distribuição das métricas RFM :contentReference[oaicite:4]{index=4}  
+- Análise da distribuição das métricas RFM  
 
 ---
 
@@ -42,7 +42,7 @@ O objetivo é identificar grupos homogêneos de clientes a partir de dados trans
 
 - Determinação do número ótimo de clusters (Elbow Method)  
 - Aplicação do algoritmo **K-Means**  
-- Avaliação da qualidade dos clusters identificados :contentReference[oaicite:5]{index=5}  
+- Avaliação da qualidade dos clusters identificados  
 
 ---
 
@@ -85,4 +85,5 @@ Ao executar este projeto, você poderá:
 * Criar estratégias de CRM mais eficazes, como campanhas personalizadas ou programas de retenção. 
 
 * Utilizar clustering para impulsionar decisões baseadas em dados e melhorar a performance de marketing e vendas.
+
 
