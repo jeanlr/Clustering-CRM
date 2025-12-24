@@ -7,7 +7,7 @@
 
 Este projeto implementa uma solução completa de **segmentação de clientes** utilizando técnicas de *clustering* para otimização de estratégias de CRM (Customer Relationship Management).  
 
-O objetivo é identificar grupos homogêneos de clientes a partir de dados transacionais e demográficos para **criar estratégias de marketing personalizadas**, melhorar **retenção de clientes** e aumentar a **lucratividade**. :contentReference[oaicite:0]{index=0}
+O objetivo é identificar grupos homogêneos de clientes a partir de dados transacionais e demográficos para **criar estratégias de marketing personalizadas**, melhorar **retenção de clientes** e aumentar a **lucratividade**.
 
 ---
 
@@ -85,3 +85,4 @@ Ao executar este projeto, você poderá:
 * Criar estratégias de CRM mais eficazes, como campanhas personalizadas ou programas de retenção. 
 
 * Utilizar clustering para impulsionar decisões baseadas em dados e melhorar a performance de marketing e vendas.
+
